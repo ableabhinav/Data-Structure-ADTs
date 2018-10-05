@@ -277,6 +277,6 @@ void main(){
 			printf("%c \n", *(char *)(valueAt(h, position)));
 		}	
 
-	}while(choice <= 9);
+	}while(choice <= 8);
 
 }
